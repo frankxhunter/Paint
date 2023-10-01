@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #ededed;
+}
+h1{
+    text-align: center;
+    margin: 10px;
+    font-family: sans-serif;
+}
+.editor{
+    background-color: #fff;
+    margin: 30px;
+    width: fit-content;
+    margin: auto;
+    margin-top: 20px;
+    border: 2px solid #000;
+}
+.editor div{
+    background-color: #000;
+    padding: 4px;
+}
+#lw{
+    width: 80%;
+    height: 20px;
+}
+#color{
+    width: 13%;
+    height: 40px;
+}
+canvas{
+    border: 1px solid #000;
+}
